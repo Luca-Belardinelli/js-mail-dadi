@@ -1,10 +1,3 @@
-// Mail
-// Crea una lista di email di invitati ad una festa. Chiedi all’utente la sua email, controlla che sia nella lista di chi può accedere,
-//  stampa un messaggio appropriato sull’esito del controllo, utilizzando un ciclo for.
-// Non è consentito usare nessun metodo proprio degli array (come includes, per esempio).
-// Si può fare? Certo che si basta ragionare un po’.
-// Nota: Non è necessario provvedere alla validazione delle email
-
 
 //lista email
 const invitati = [
@@ -21,10 +14,12 @@ const invitati = [
 //inpunt
 
 //Inserimento email
+
 let email = prompt('inserire la propria email:');
 
 
 // creo una variabile
+
 let emailcheck = false;
 
 
@@ -36,14 +31,18 @@ if  (invitati[i] === email){
     
     emailcheck = true;
  }
+ 
 }
 
 
 // risultato 
 
 if (emailcheck){
+
 console.log("entra pure")
+
 } else {
+
     console.log("vattene subito")
 }
 
