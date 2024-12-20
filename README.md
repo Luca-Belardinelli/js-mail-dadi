@@ -1,6 +1,6 @@
 # js-mail-dadi
 
-<!-- CONSEGNA ESERCIZIO MAIL -->
+ CONSEGNA ESERCIZIO MAIL
 
 // MAIL
 
@@ -15,7 +15,7 @@
 // Nota: Non è necessario provvedere alla validazione delle email
 
 
-<!-- SVOLGIMENTO ESERCIZIO MAIL -->
+ SVOLGIMENTO ESERCIZIO MAIL
 
 // Creo la lista delle email degli inivitati alla festa
 
@@ -30,7 +30,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<!-- CONSEGNA ESERCIZIO DADI -->
+ CONSEGNA ESERCIZIO DADI
 
 // GIOCO DEI DADI
 
@@ -43,7 +43,7 @@
 // Se dobbiamo confrontare qualcosa che “cosa” ci serve?
 
 
-<!-- SVOLGIMENTO ESERCIZIO DADI -->
+ SVOLGIMENTO ESERCIZIO DADI
 
 // Creo due variabili, una per il giocatore una per il pc
 
