@@ -45,3 +45,10 @@
 
 <!-- SVOLGIMENTO ESERCIZIO DADI -->
 
+// Creo due variabili, una per il giocatore una per il pc
+
+// Genero due numeri e li assegno ai giocatori
+
+// Confronto i due numeri
+
+// Stampo il giocatore che ha il numero più alto
