@@ -23,14 +23,16 @@ const invitati = [
 //Inserimento email
 let email = prompt('inserire la propria email:');
 
+
+// creo una variabile
 let emailcheck = false;
 
 
 // ciclo for
 
-for (let i = 0; i < invitati.length; i++){
+for (let i = 0; i < invitati.length; i++) {
 
-if  (invitati === email){
+if  (invitati[i] === email){
     
     emailcheck = true;
  }
