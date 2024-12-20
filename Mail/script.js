@@ -21,6 +21,7 @@ let email = prompt('inserire la propria email:');
 // creo una variabile
 
 let emailcheck = false;
+console.log("un secondo e siamo subito da lei")
 
 
 // ciclo for
@@ -31,7 +32,7 @@ if  (invitati[i] === email){
     
     emailcheck = true;
  }
- 
+
 }
 
 
@@ -39,11 +40,11 @@ if  (invitati[i] === email){
 
 if (emailcheck){
 
-console.log("entra pure")
+console.log("Prego, si accomodi all'interno, lasci pure la giacca qui")
 
 } else {
 
-    console.log("vattene subito")
+    console.log("Ci dispiace ma lei non è presente nella lista degli invitati, è pregato di andarsene subito")
 }
 
 
